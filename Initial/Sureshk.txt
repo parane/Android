@@ -1,0 +1,151 @@
+<!----><!DOCTYPE html>
+<head>
+<meta http-equiv="content-language" content="en" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="yellow" />
+<link rel="stylesheet" media="screen" type="text/css" href="css/reset.css" />	
+<link rel="stylesheet" media="screen" type="text/css" href="css/main.css" />
+<!-- script type="text/javascript" src="js/main.js"></script -->
+<title>Tamilwin</title>
+<link rel="apple-touch-icon" href="apple-touch-icon.png"/>
+<link rel="apple-touch-startup-image" href="startup.png">
+<!--AdSense-->
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt_mobile.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/1009419/Mobile_Top', [320, 50], 'div-gpt-ad-1337181622485-0').addService(googletag.pubads());
+googletag.defineSlot('/1009419/Tamilwin_Top_Mobile', [320, 50], 'div-gpt-ad-1337181622485-1').addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<!-- Bookmark -->
+<script type="text/javascript">
+	if ('standalone' in navigator && !navigator.standalone && (/iphone|ipod|ipad/gi).test(navigator.platform) && (/Safari/i).test(navigator.appVersion)) {
+		var addToHomeConfig = {
+			animationIn:'bubble',		// Animation In
+			animationOut:'drop',		// Animation Out
+			lifespan:15000,				// The popup lives 10 seconds
+			expire:2,					// The popup is shown only once every 2 minutes
+			touchIcon:true,
+			message:'Install this web apps your <strong>%device</strong>: tab `%icon` and then Add to Home Screen.'
+		};
+
+		document.write('<link rel="stylesheet" href="css\/add2home.css">');
+		document.write('<script type="application\/javascript" src="js\/add2home.js"><\/script>');
+	}
+</script>
+</head>
+<body onorientationchange="Orientation();">
+<div id="wrapper">
+	<!-- HEADER -->
+	<div id="header">
+	<h3 id="logo"><a href="/m" onclick="return link(this)"><img src="/m/design/logo.png" alt="" /></a></h3>
+	<p class="search"><a href="/site.php?full" onclick="return link(this)" class="button button-blue"><span>Desktop Site</span></a></p>
+</div>
+
+<!-- TRAY -->
+<div id="tray" align="center">
+	<!-- Mobile_Top -->
+	<div id='div-gpt-ad-1337181622485-0'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1337181622485-0')});
+	</script>
+	</div>
+</div> 
+<!-- /tray -->	<!-- /header -->
+	
+	<!-- CONTENT -->
+	<div id="content">
+		<!-- RECENT ARTICLES -->
+		<h2 class="separator">பிந்திய செய்திகள்</h2>
+<ul class="list box"><li class="box">
+		<div class="list-img"><a href="/mshow-RUmqyGSaOXnrz.html" onclick="return link(this)"><img src="/photos/thumbs/2012/06/dengu_001.jpg" width="100" border="0"></a></div>
+		<div class="list-txt">
+			<h3><a href="/mshow-RUmqyGSaOXnrz.html" onclick="return link(this)">இலங்கையில் டெங்கை ஒழிக்க ஜனாதிபதி செயலணியை அழைக்கத் தீர்மானம்</a></h3>
+		</div> <!-- /list-txt -->
+	</li><li class="box">
+		<div class="list-img"><a href="/mshow-RUmqyGSaOXnry.html" onclick="return link(this)"><img src="/photos/thumbs/srilanka/president/mahinda_prasi_001.jpg" width="100" border="0"></a></div>
+		<div class="list-txt">
+			<h3><a href="/mshow-RUmqyGSaOXnry.html" onclick="return link(this)">ஐ.தே.கவிலிருந்து நாடாளுமன்ற உறுப்பினர்கள் விலைக்கு வாங்கப்பட்டமைக்கு மஹிந்த ராஜபக்ச எதிர்ப்பு</a></h3>
+		</div> <!-- /list-txt -->
+	</li><li class="box">
+		<div class="list-img"><a href="/mshow-RUmqyGSaOXnq7.html" onclick="return link(this)"><img src="/photos/thumbs/2012/06/lankateepa_001.jpg" width="100" border="0"></a></div>
+		<div class="list-txt">
+			<h3><a href="/mshow-RUmqyGSaOXnq7.html" onclick="return link(this)">சிங்கள நாளிதழ் லங்காதீபவின் செய்தியாளருக்கு உயிரச்சுறுத்தல்</a></h3>
+		</div> <!-- /list-txt -->
+	</li><li class="box">
+		<div class="list-img"><a href="/mshow-RUmqyGSaOXnq6.html" onclick="return link(this)"><img src="/photos/thumbs/srilanka/others/mussamil_001.jpg" width="100" border="0"></a></div>
+		<div class="list-txt">
+			<h3><a href="/mshow-RUmqyGSaOXnq6.html" onclick="return link(this)">கொழும்பு மாநகரசபை முதல்வர் 16 மில்லியன் ரூபாவுக்கு கார் கொள்வனவு</a></h3>
+		</div> <!-- /list-txt -->
+	</li><li class="box">
+		<div class="list-img"><a href="/mshow-RUmqyGSaOXnq5.html" onclick="return link(this)"><img src="/photos/thumbs/srilanka/minister/risad_001.jpg" width="100" border="0"></a></div>
+		<div class="list-txt">
+			<h3><a href="/mshow-RUmqyGSaOXnq5.html" onclick="return link(this)">பதவி விலகப் போகிறேன்: ரிசாத் பதியுதீன்</a></h3>
+		</div> <!-- /list-txt -->
+	</li><li class="box">
+		<div class="list-img"><a href="/mshow-RUmqyGSaOXnq4.html" onclick="return link(this)"><img src="/photos/thumbs/srilanka/UNP/unp_logo_002.jpg" width="100" border="0"></a></div>
+		<div class="list-txt">
+			<h3><a href="/mshow-RUmqyGSaOXnq4.html" onclick="return link(this)">ஐ.தே.கவின் நாடாளுமன்ற உறுப்பினர்கள் இருவரிடம் விசாரணை</a></h3>
+		</div> <!-- /list-txt -->
+	</li><li class="box">
+		<div class="list-img"><a href="/mshow-RUmqyGSaOXnq3.html" onclick="return link(this)"><img src="/photos/thumbs/2012/06/prostitution_001.jpg" width="100" border="0"></a></div>
+		<div class="list-txt">
+			<h3><a href="/mshow-RUmqyGSaOXnq3.html" onclick="return link(this)">இலங்கையில் நாள் தோறும் 80ஆயிரம் ஆண்கள், பெண் பாலியல் தொழிலாளிகளை நாடுகின்றனர்</a></h3>
+		</div> <!-- /list-txt -->
+	</li><li class="box">
+		<div class="list-img"><a href="/mshow-RUmqyGSaOXnq2.html" onclick="return link(this)"><img src="/photos/thumbs/srilanka/defence/koththapaya_raja_001.jpg" width="100" border="0"></a></div>
+		<div class="list-txt">
+			<h3><a href="/mshow-RUmqyGSaOXnq2.html" onclick="return link(this)">பாதாள உலகக் குழுக்களை இல்லாதொழிக்க நடவடிக்கை எடுக்கப்படும்: கோத்தபாய</a></h3>
+		</div> <!-- /list-txt -->
+	</li><li class="box">
+		<div class="list-img"><a href="/mshow-RUmqyGSaOXnq1.html" onclick="return link(this)"><img src="/photos/thumbs/2012/01/courts_001.jpg" width="100" border="0"></a></div>
+		<div class="list-txt">
+			<h3><a href="/mshow-RUmqyGSaOXnq1.html" onclick="return link(this)">குண்டு தாக்குதல்களை நடாத்த உளவுப் பார்த்த புலி உறுப்பினருக்கு கடூழிய சிறை</a></h3>
+		</div> <!-- /list-txt -->
+	</li><li class="box">
+		<div class="list-img"><a href="/mshow-RUmqyGSaOXnq0.html" onclick="return link(this)"><img src="/photos/thumbs/2012/01/ltte_flag_001.jpg" width="100" border="0"></a></div>
+		<div class="list-txt">
+			<h3><a href="/mshow-RUmqyGSaOXnq0.html" onclick="return link(this)">புலம்பெயர் புலி ஆதரவாளர்களின் நிதி வலையமைப்பு குறித்து தகவல்கள் அம்பலம்</a></h3>
+		</div> <!-- /list-txt -->
+	</li></ul><!-- PAGINATION -->
+<p class="pagination box">
+        <a href="?cp=0" class="pagination-step">&laquo;</a><strong>1</strong><a href="?cp=2">2</a><a href="?cp=3">3</a><a href="?cp=4">4</a><a href="?cp=5">5</a><a href="?cp=2" class="pagination-step">&raquo;</a>
+</p>	</div> <!-- /content -->
+	<!-- FOOTER -->
+	<div id="footer">
+	<p>&copy; 2012 <a href="http://www.tamilwin.com/">Tamilwin.com</a><span class="switch">Go to <a href="/site.php?full">Desktop Version</a></span></p>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22282787-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	<!-- /footer -->
+</div> <!-- /wrapper -->
+
+
+
+
+
+
+</body>
+</html>
